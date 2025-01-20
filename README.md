@@ -28,8 +28,8 @@ This Zomato Restaurants Analysis project uses Power BI and SQL to analyze restau
 
 # **`Visit For Details:`**
 
-**`Dataset:`** https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+**`Dataset:`** https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data
 
-**`Project Report (PDF):`** https://drive.google.com/file/d/1J7RcIyWCHX5RACZ621sIEdc_2QZNRKL-/view
+**`Project Report (PDF):`** https://drive.google.com/file/d/1vMM7w4eM8bQzykma__aonenrdMsAVYm7/view
     
  
