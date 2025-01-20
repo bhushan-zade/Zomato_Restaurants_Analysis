@@ -1,6 +1,7 @@
-<img src="https://img.shields.io/badge/build%20with-Power%20BI-yellow"><img src="https://img.shields.io/badge/-SQL-brightgreen">
-<img src="https://img.shields.io/badge/-data%20analysis-blue"><img src="https://img.shields.io/badge/-project-blue">
+<img src="https://img.shields.io/badge/built%20with-Power%20BI-yellow"><img src="https://img.shields.io/badge/-SQL-brightgreen">
 <img src="https://img.shields.io/badge/domain-Restaurant%20Analytics%20&%20Business%20Intelligence-orange">
+<img src="https://img.shields.io/badge/-data%20analysis-blue">
+
 
 
 
