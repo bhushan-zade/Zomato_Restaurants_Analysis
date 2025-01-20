@@ -18,19 +18,13 @@ This Zomato Restaurants Analysis project uses Power BI and SQL to analyze restau
 
 
 
-<img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/Customer_Churn_Analysis/blob/main/Churn%20Analysis-1_page-0001.jpg">
+<img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/Zomato_Restaurants_Analysis/blob/main/Zomato%20Restaurants%20Analysis_page-0001.jpg">
 
 
 
 #
 
 
-
-
-<img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/Customer_Churn_Analysis/blob/main/Churn%20Analysis-2_page-0001.jpg">
-
-
-#
 
 # **`Visit For Details:`**
 
